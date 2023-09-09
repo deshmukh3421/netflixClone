@@ -352,13 +352,15 @@ a:any-link {
             font-size: 15px;
         }
         .aside p{
-            font-size: 13px;
+            font-size: 15px;
             align-items: center;
+        }
+        .span3 {
+            white-space: nowrap;
         }
         .aside input{
             margin-left: 45px;
             width: 50%;
-
         }
         .aside button{
             width: fit-content;
